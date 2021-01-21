@@ -1,4 +1,4 @@
-name: Broadcaster
+name: NotifierByAndrew
 main: Broadcaster\Broadcaster
 version: 1.5
 api: [3.0.0]
